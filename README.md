@@ -10,8 +10,6 @@ As part of ENCODE Phase 4, the Functional Element Characterization Centers (FCCs
 
 The ENCODE FCC Capstone study brings together data from participating labs to systematically characterize cis-regulatory elements (CREs) in K562 cells. The study integrates four reporter assays (ATAC-STARR-seq, whole-genome STARR-seq, Lenti-MPRA, and Tiling MPRA) and two CRISPRi screening approaches (HCR-FlowFISH and growth screens).
 
-We compare regulatory activity across assays and integrate the results with genomic and chromatin annotations to characterize assay concordance, assay-specific activity, and the properties of regulatory elements.
-
 We compare regulatory activity across assays to characterize assay concordance and assay-specific activity. We further integrate these results with genomic data, chromatin annotations, and chromatin interactions to investigate the properties of regulatory elements.
 
 ## Collaboration
