@@ -4,7 +4,7 @@ This repository contains analysis code, processed results, and figure-generation
 
 ## Overview
 
-The [ENCODE Project](https://www.encodeproject.org/) is an international research consortium funded by the National Human Genome Research Institute (NHGRI) to identify and characterize functional elements in the human and mouse genomes.
+The [ENCODE Project](https://www.encodeproject.org/) is a research consortium funded by the National Human Genome Research Institute (NHGRI) to identify and characterize functional elements in the human and mouse genomes.
 
 As part of ENCODE Phase 4, the Functional Element Characterization Centers (FCCs) were established to develop and apply high-throughput approaches to characterize candidate regulatory elements.
 
@@ -16,5 +16,5 @@ We compare regulatory activity across assays to characterize assay concordance a
 
 This study is part of the ENCODE FCC collaborative effort, with participating labs contributing experimental datasets, computational analyses, and scientific interpretation.
 
-Information about the participating ENCODE Functional Element Characterization Centers is available on the [NHGRI ENCODE Project website](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements).
+More information about the ENCODE FCCs is available on the [NHGRI ENCODE Project website](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements).
 
