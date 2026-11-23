@@ -18,4 +18,4 @@ This study is part of the ENCODE FCC collaborative effort, with participating la
 
 More information about the ENCODE FCCs is available on the [NHGRI ENCODE Project website](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements).
 
-[](./results/figures/genome_track.fcc.chipseq.LMO2.HBE.png)
+![Genome browser tracks at the LMO2 and HBE loci](./results/figures/fig.genome_track.fcc.chipseq.LMO2.HBE.png)
